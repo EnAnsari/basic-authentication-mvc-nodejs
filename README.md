@@ -1,6 +1,6 @@
 # Node.js MVC Authentication Project
 
-This is a Node.js project implementing a Model-View-Controller (MVC) architecture with authentication operations. The project uses `Express` for the web framework, `Sequelize` for ORM with `SQLite3` as the database, and `Passport` with `bcryptjs` for authentication.
+This is a Node.js project implementing a [Model-View-Controller (MVC) architecture](https://github.com/EnAnsari/basic-authentication-mvc-nodejs/wiki/MVC-Architecture) with authentication operations. The project uses `Express` for the web framework, `Sequelize` for ORM with `SQLite3` as the database, and `Passport` with `bcryptjs` for authentication.
 
 ## Modules Used
 
@@ -69,7 +69,7 @@ By default, the application will run on `http://localhost:8080`.
 ## Usage
 
 + **Authentication**: Users can register, log in, and manage their sessions.
-+ **MVC Structure**: The application follows the MVC architecture.
++ **[MVC Structure](https://github.com/EnAnsari/basic-authentication-mvc-nodejs/wiki/MVC-Architecture)**: The application follows the MVC architecture.
     + **Model**: Defines the data structure and interacts with the database.
     + **View**: Renders the HTML using Pug templates.
     + **Controller**: Contains the logic for handling user requests and responses.
