@@ -1,0 +1,75 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variable files
+.env
+.env.*.local
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build output
+.nuxt/
+dist/
+
+# Sapper build output
+__sapper__/
+
+# SvelteKit build output
+.svelte-kit/
+
+# Gatsby files
+.cache/
+public/
+
+# Vue.js files
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Linux system files
+.trash/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Yarn integrity file
+.yarn-integrity
+
+# npm package-lock files
+package-lock.json
+
+# TypeScript build output
+*.tsbuildinfo
+
+# Serverless deployment files
+.serverless/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Built files
+build/
+dist/
+out/
