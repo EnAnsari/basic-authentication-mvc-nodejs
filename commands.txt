@@ -1,0 +1,6 @@
+npm init -y
+npm install express express-session pug sequelize sqlite3 bcryptjs passport passport-local
+mkdir models views controllers
+touch server.js
+touch login.pug register.pug dashboard.pug layout.pug
+mkdir routes
